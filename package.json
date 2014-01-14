@@ -1,0 +1,24 @@
+{
+  "name": "sd-plugin-sample",
+  "version": "0.0.1",
+  "description": "Sample plugin for status dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/sd-plugin-sample.git"
+  },
+  "keywords": [
+    "statusdashboard",
+    "monitoring",
+    "node",
+    "plugin"
+  ],
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chamerling/sd-plugin-sample/issues"
+  }
+}
